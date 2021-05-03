@@ -19,4 +19,3 @@
 
 - [Lung Damage Training Set Metadata](./data/lung-damage-train-metadata.csv)
 - [Lung Damage Test Set Metadata](./data/lung-damage-test-metadata.csv)
-- [Lung Damage Dataset](./data/lung-damage-dataset.zip)
